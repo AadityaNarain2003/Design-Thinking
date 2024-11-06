@@ -1,0 +1,5 @@
+The initial problem statement is in the form of a narrative and is written as:
+------------------------------------------------------------------------------
+
+Aaditya, like many undergraduate students at IIIT, faces significant academic pressures. With demanding coursework and a heavy workload, the expectations can often feel overwhelming. The constant push to meet deadlines and maintain academic excellence leaves little room for personal well-being. As Aaditya navigates the challenges of balancing studies with other responsibilities, including social life and extracurricular activities, he finds himself sacrificing essential aspects of life, such as rest, self-care, and personal growth. Over time, this imbalance leads to exhaustion, diminished focus, and a decline in academic performance, creating a cycle that’s difficult to break.
+

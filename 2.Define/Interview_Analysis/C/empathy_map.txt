@@ -1,0 +1,23 @@
+SAYS
+
+    "I feel a lot of academic stress."
+    "I expect a lot coming from me."
+    "I need to do better at planning."
+
+THINKS
+
+    "I put too much pressure on myself."
+    "I should be more organized."
+    "I need to plan my future career better, but I'm not sure how."
+
+DOES
+
+    Does little to no planning on his own, often leaving tasks to the last minute.
+    Relies on external deadlines or pressure to push him to complete tasks.
+    Focuses primarily on academics and tech-related work, neglecting broader personal goals.
+
+FEELS
+
+    Stressed and Overwhelmed: Feels constantly weighed down by academic pressures and the demands of balancing his work.
+    Frustrated: Frustration arises from his high self-expectations and lack of structured planning.
+    Anxious: Anxiety around his future career role and how he’s managing his current workload.

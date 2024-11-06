@@ -1,0 +1,28 @@
+SAYS
+
+    "It’s difficult to balance personal well-being."
+    "I need to focus on academics, but I also want time for dance and art."
+    "I’m not very organized, and that makes things harder."
+    "I always seem to end up working last minute, which is stressful."
+    "I need to be better at managing my time."
+
+THINKS
+
+    "I can’t afford to fall behind academically, but I wish I had more time for myself."
+    "Academics are okay for now, but I keep leaving things until the last minute."
+    "If only I had a better schedule, I’d be less stressed."
+    "Dance and art make me happy, but I don’t want them to take away from my studies."
+
+DOES
+
+    Stays up late to complete assignments or study when under pressure.
+    Skips meals or eats at odd times during stressful periods.
+    Procrastinates on tasks until deadlines approach.
+    Occasionally attempts to create a schedule but struggles to follow it consistently.
+
+FEELS
+
+    Stressed and Worn Out: Often feels drained, especially during peak academic times or after last-minute work.
+    Guilty and Overwhelmed: Worries that time spent on extracurriculars could be used for academics; overwhelmed by unplanned work and looming deadlines.
+    Frustrated with Time Management: Feels frustration at not being able to balance commitments effectively, which lowers her overall satisfaction and well-being.
+    Desirous of Improvement: A is motivated to find better habits and tools, showing a desire for change and growth.

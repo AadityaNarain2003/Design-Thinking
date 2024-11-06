@@ -1,0 +1,67 @@
+User Journey Map:Completing an Assignment in 48 Hours
+
+Scenario: This student has 48 hours to complete an assignment worth 15% of their grade, needing an estimated 10-12 hours. They have classes from 8:30 am to 5:00 pm both days, with meal breaks and a planned sports activity.
+1. November 4th - 11:00 pm: Initial Work and Rest
+
+    Actions: Works on the assignment for 2 hours before going to sleep.
+    Thoughts: "I’ll get a head start now, so I can still get some rest and pace myself tomorrow."
+    Emotions: Optimistic about starting early, calm with a basic plan in place.
+    Pain Points: Balancing the assignment and sleep, awareness of the time crunch.
+    Opportunities: This initial effort sets a foundation, reducing pressure on the following day.
+
+2. November 5th - Morning and Midday
+
+    7:30 am - Wakes Up, Prepares for the Day:
+        Actions: Eats breakfast, prepares for classes, plans to finish the assignment later.
+        Thoughts: "I got some work done yesterday; I’ll focus on classes and tackle more later."
+        Emotions: Motivated and energized from a balanced start.
+        Pain Points: Need to balance the assignment with full class attendance and other activities.
+        Opportunities: Focus on classes while feeling mentally refreshed from an early start.
+
+    8:30 am - Attends Classes:
+        Actions: Engages fully in class without multitasking on the assignment.
+        Thoughts: "I’ll prioritize learning now and focus on the assignment afterward."
+        Emotions: Focused on academic content, positive about handling priorities.
+        Pain Points: Risk of losing assignment time, potential stress if delayed too long.
+        Opportunities: Clear focus on class without distraction; can later apply this focus to the assignment.
+
+    5:00 pm - Plays Sports:
+        Actions: Takes time to play sports as a break after classes.
+        Thoughts: "This is my chance to recharge before diving into a big work session tonight."
+        Emotions: Refreshed and motivated after physical activity.
+        Pain Points: Limited time for assignment as the deadline nears.
+        Opportunities: Sports offer mental clarity and energy for evening work.
+
+3. November 5th - Evening
+
+    7:00 pm - Dedicates 5 Hours to the Assignment:
+        Actions: Commits to working on the assignment for a substantial block of time.
+        Thoughts: "I’m making good progress now; I’ll push through to finish most of it."
+        Emotions: Productive and focused, feeling accomplished as work progresses.
+        Pain Points: Fatigue may set in after hours of work, focus may start to wane.
+        Opportunities: Significant progress reduces next day’s workload; possible buffer for revision.
+
+4. November 6th - Morning and Midday
+
+    5:00 am - Wakes Up Early to Work:
+        Actions: Begins work early to build on previous progress.
+        Thoughts: "I’ll finish most of the remaining work now; I’m on track to meet the deadline."
+        Emotions: Determined to complete the assignment, optimistic about the remaining workload.
+        Pain Points: Early wake-up affects sleep, risk of fatigue later in the day.
+        Opportunities: Focused work at a quiet time of day, early start sets the tone for completion.
+
+    8:30 am - Attends Classes, Works on Assignment Between Sessions:
+        Actions: Attends classes, uses breaks to complete assignment sections.
+        Thoughts: "I’ll chip away at the assignment in every spare moment I have."
+        Emotions: Productive and focused, though slightly stressed as the deadline nears.
+        Pain Points: Fragmented work sessions, potential challenge in maintaining concentration.
+        Opportunities: Efficient use of short breaks for targeted tasks, minimizing end-of-day workload.
+
+5. November 6th - Final Push and Submission
+
+    Afternoon to Deadline - Final Touches on the Assignment:
+        Actions: Works steadily to complete the remaining assignment sections.
+        Thoughts: "Almost there—I’ll finish the last few parts and submit in time."
+        Emotions: Relief at nearing completion, satisfaction with time management, fatigue.
+        Pain Points: Fatigue from sustained work over two days, minor stress about last-minute errors.
+        Opportunities: The gradual approach minimizes rush, enabling quality completion.

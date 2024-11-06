@@ -1,0 +1,27 @@
+Overview:
+E is a 4th-year undergraduate student at IIIT-Hyderabad, currently working on Large Language Models (LLM) at SERC and holding a job offer from Oracle. He has interests in aesthetics and basketball, balancing his studies with personal hobbies and social life.
+
+Job-to-be-done:
+E’s primary goal is to complete his course credits successfully, graduate with a strong record, and prepare for his goal of pursuing an MS in the USA.
+
+Pains:
+
+    Difficulty Committing to Plans: E often struggles to stick to his own plans, leading to inconsistency in achieving his goals.
+    Challenges with Deadlines: He finds it challenging to manage deadlines effectively, often feeling pressure as they approach.
+
+Gains:
+
+    Balanced Social and Personal Life: E makes time for friends, hobbies, and personal well-being, which helps him manage stress and maintain a good work-life balance.
+
+Mood
+
+    Aesthetic-Oriented: E has a strong appreciation for aesthetics, likely preferring organized and visually appealing tools and spaces.
+    Structured but Strained: He uses a fixed scheduler but feels pressure near deadlines, which impacts his ability to stay consistent without additional support.
+
+Influences
+
+    Friends, Advisors, News.
+
+Use Case
+
+    Deadline Management and Consistency Tool: E would benefit from a deadline management tool with aesthetic design and reminders that align with his visual preferences. The tool could offer him structured prompts to stay committed to his plans, perhaps incorporating gentle nudges to break down tasks in manageable steps. A personalized scheduler that emphasizes aesthetic appeal and organization could support him in balancing academic work with personal goals.

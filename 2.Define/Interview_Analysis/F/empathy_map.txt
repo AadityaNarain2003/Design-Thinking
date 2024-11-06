@@ -1,0 +1,23 @@
+SAYS
+
+    "Personal well-being is not a priority right now."
+    "I need to stay on top of my tasks to succeed in coding."
+    "If I can just stick to my schedule, I'll manage everything."
+
+THINKS
+
+    "My focus should be on coding and job preparation above all."
+    "Unexpected tasks are what usually throw me off."
+    "I should probably give more attention to my health, but I don’t have the time."
+
+DOES
+
+    Plans tasks regularly, using a synchronized time management tool to keep track.
+    Often deprioritizes physical well-being activities like exercise or rest.
+    Keeps a busy schedule with NSS and SLC tech team responsibilities, leaving limited room for flexibility.
+
+FEELS
+
+    Anxious About Disruptions: Worries that sudden tasks or changes might derail his planned schedule.
+    Motivated but Pressured: Focused on coding goals, but feels the strain of balancing multiple responsibilities.
+    Ambivalent About Well-being: Recognizes the importance of health but sees it as secondary to his career goals.

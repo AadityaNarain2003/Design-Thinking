@@ -1,0 +1,29 @@
+Overview:
+C is a 3rd-year undergraduate student at IIIT-Hyderabad, currently involved with the RRC (Robotics Research Center). With a strong interest in technology, C is focused academically but minimally engaged in extracurriculars. He faces significant academic stress and struggles with maintaining motivation and mental well-being.
+
+Job-to-be-done:
+C’s primary objective is to remain focused on his academic goals for the year while planning his future role and career pathway post-internship.
+
+Pains:
+
+1.High Academic Stress: C feels overwhelmed with academic pressures, which affects his mental health.
+2.Poor Planning and Procrastination: He lacks a structured planning routine, often delaying tasks and resulting in last-minute stress.
+3.High Self-Expectations: C sets overly high expectations for himself, which can lead to frustration and low motivation if he falls short.
+
+Gains:
+
+1.Focus on Personal Well-being: C does prioritize aspects of his well-being, likely through small habits or breaks, which helps to some degree in managing stress.
+
+Influences:
+
+1.Mentors or Academic Advisors
+2.Peers in RRC 
+
+Mood:
+
+1.Stressed but Determined: C feels weighed down by academic responsibilities, yet he is committed to his goals.
+2.Easily Demotivated: His high self-expectations make it easy for him to feel discouraged if he doesn't meet them.
+
+Use Case:
+
+1.Motivational Tool: C would benefit from a motivational tool that provides both structure and encouragement. This tool could include features for goal setting, daily motivational prompts, and reminders to help him pace himself and reduce procrastination. A reflection component may also help him manage expectations and track progress realistically, boosting his motivation over time

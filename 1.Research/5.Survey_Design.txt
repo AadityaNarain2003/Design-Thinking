@@ -1,0 +1,80 @@
+1. Survey Design
+
+Demographics: Include questions about the students' year, specialization, living situation (on-campus/off-campus), and extracurricular involvement.
+
+Academic Stressors: Ask about the main sources of stress (e.g., exams, assignments, project deadlines).
+
+Mental Health and Well-being: Include questions on how students perceive their mental health and well-being, using Likert scales or self-assessment tools.
+
+Time Management: Ask students about their time management strategies, how often they plan and set goals, and their self-efficacy in following through.
+
+Institutional Support: Assess awareness and use of campus resources such as counseling, tutoring, or student wellness programs.
+
+Social Support: Include questions on the availability and importance of social networks (friends, family, peers).
+
+Extracurricular Activities: Ask about participation in clubs, sports, and other activities and their perceived impact on stress and academic performance.
+
+2. Interviews/Focus Groups
+
+In-depth Exploration: Talk to students in focus groups or individual interviews to dig deeper into the impact of stress on their personal lives and academic performance.
+
+Personal Experiences: Capture how different students experience and manage stress, and what coping mechanisms they find effective or ineffective.
+
+Institutional Feedback: Ask for feedback on what more the institution could do to help manage stress, improve academic support, and promote well-being.
+
+3. Observation
+
+Study Habits: Observe students in the library or common study areas to see how they manage time, distractions, and study workloads.
+
+Social Spaces: Observe common areas where students relax or socialize to gauge the balance between academic work and leisure.
+
+4. Analysis Framework
+
+Quantitative Analysis: Use statistical analysis for survey responses, focusing on correlations (e.g., between stress levels and academic performance, stress and institutional support, time management 
+effectiveness).
+
+Qualitative Analysis: Analyze interview and focus group data to identify key themes, patterns, and insights about students' experiences.
+
+Comparison with Literature: Relate findings to existing literature on stress, well-being, and time management behaviors.
+
+Expected Output from the above:
+
+1. Key Stressors Identification
+
+Expectation: A clear understanding of the primary factors contributing to academic stress for undergraduate students, such as workload, exams, fear of failure, financial burden, or balancing academics with 
+extracurricular activities.
+
+2. Insights into Time Management
+
+Expectation: A better understanding of how effectively students manage their time, whether they use time management strategies, and how this impacts their stress levels and academic performance. You may 
+discover that students either lack awareness of effective time management techniques or struggle to follow through with them.
+
+3. Impact of Social and Institutional Support
+
+Expectation: Insights into how much students rely on social support systems (friends, family, peers) and the extent to which they are aware of and utilize institutional support systems like mental health 
+services, counseling, or academic resources. You may also learn how these support systems reduce stress or, in their absence, how stress levels increase.
+
+4. Procrastination and Goal Setting
+
+Expectation: Confirmation that students often set goals but fail to follow them through, and that procrastination is a common issue. This will provide insights into their behavior regarding academic tasks and 
+goal-setting failures.
+
+5. Extracurricular Activities’ Influence
+
+Expectation: Data on how extracurricular activities affect academic performance and well-being, potentially supporting the literature that suggests a slight positive relationship between participation in 
+extracurriculars and academic success.
+
+6. Perception of Well-being and Academic Success
+
+Expectation: A deeper understanding of how academic stress impacts students’ personal well-being (mental and physical health, personal growth) and how this, in turn, affects their academic performance.
+
+7. Student Feedback for Institutional Improvement
+
+Expectation: Direct student feedback on what institutional changes could help alleviate stress, such as enhanced academic advising, improved access to mental health resources, or better time management 
+workshops.
+
+
+8. Practical Solutions and Interventions
+
+Expectation: Recommendations and interventions that can be proposed to the institution or student bodies to address these issues, such as implementing programs focused on time management, mental health 
+awareness, and goal-setting support.

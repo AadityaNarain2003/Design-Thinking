@@ -1,0 +1,41 @@
+Persona 2: The Procrastinator, Overwhelmed by Stress
+Description:
+
+This persona is a well-intentioned planner who struggles with procrastination and often gets overwhelmed as deadlines approach. Despite their best efforts to organize and plan, they face high levels of stress due to the inability to follow through with their plans, leading to both academic and personal well-being challenges.
+
+    Example Data: B (1st-year student), C (3rd-year student), F (3rd-year student), I (3rd-year student).
+
+Job-To-Be-Done:
+
+    Perform well academically and secure a good internship.
+    Develop better time management and focus strategies.
+    Overcome procrastination and follow through on academic and personal goals.
+
+Pains:
+
+    Procrastination: Despite planning, often leaves work until the last minute, which increases stress.
+    High Stress Levels: Procrastination leads to last-minute work, resulting in heightened anxiety and stress.
+    Imbalance: Struggles with maintaining a balance between personal well-being and academic tasks, leading to burnout.
+
+Gains:
+
+    Intends to succeed and plans well, but inconsistent execution hampers results.
+    Desire to improve leads to high potential if given proper support tools.
+    Generally enjoys extracurricular activities, but struggles with balancing them with academics.
+
+Influencers:
+
+    Friends: Often feel pressure from social circles or peers, influencing productivity.
+    Family: Expectations for academic success may add to stress.
+    Advisors: Offer guidance but are sometimes unaware of the procrastination issues.
+
+Mood:
+
+    Stressed and Overwhelmed: Experiences a cycle of procrastination followed by intense stress as deadlines loom.
+    Guilty and Anxious: Feels guilty for procrastinating, which adds to anxiety.
+    Motivated but Defeated: Desires to achieve academic success but struggles with self-doubt and stress.
+
+Use Case:
+
+    Needs a motivational tool to help overcome procrastination, break tasks into manageable chunks, and reduce stress.
+    Could benefit from a time-management app that helps stay on top of tasks and encourages small achievements to maintain motivation.

@@ -1,0 +1,23 @@
+SAYS
+
+    "I’ll sleep or eat later; I have too much to do."
+    "Anime helps me unwind after a long day."
+    "I can’t do it all if I’m overloaded."
+
+THINKS
+
+    "I need to prioritize and schedule tasks to stay on track."
+    "Leadership roles are important for my career and growth."
+    "My well-being can wait; work comes first right now."
+
+DOES
+
+    Actively uses scheduling tools to organize tasks and priorities.
+    Sacrifices sleep and skips meals when under pressure.
+    Relies on anime as a quick stress-relief method.
+
+FEELS
+
+    Overwhelmed: Struggles to balance his workload and personal well-being.
+    Motivated but Fatigued: Finds purpose in his roles, but constant strain affects his energy.
+    Stressed and Needing Breaks: Uses anime to momentarily escape the high demands of his schedule.

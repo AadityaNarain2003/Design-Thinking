@@ -1,0 +1,35 @@
+ Description:
+ 
+A is a focused, ambitious 2nd-year undergraduate student at IIIT-Hyderabad, pursuing a single degree. Balancing academics with her interests in dance and art, she occasionally finds herself stretched thin, striving to perform well both in her coursework and in extracurricular engagements. Originating from Haryana, she carries cultural values and family expectations that may shape her approach to academic and personal success.
+
+Job-to-be-done:
+
+A's primary goal is to excel academically and prepare herself for future internships, ensuring she builds a strong foundation for a successful career. She aims to balance her education with meaningful participation in dance and art activities, which are essential to her personal well-being.
+
+Pains:
+
+1.Time Management: A struggles with managing her personal time effectively, often feeling overwhelmed with her commitments. She lacks structured planning tools or methods to organize her day, which results in reactive, last-minute work.
+2.Stress Management: As she does not plan well, A easily gets stressed, especially during peak academic periods or when multiple responsibilities pile up.
+Focus and Productivity: Without a structured schedule, A may feel unproductive or scattered, affecting both her academic performance and enjoyment of her extracurricular activities.
+
+Gains:
+
+1.Regular Dance and Art Involvement: A finds joy and relaxation in dancing and other creative activities. These hobbies are her source of energy and stress relief, contributing to her sense of well-being.
+2.Moderate Extracurricular Engagement: She participates in activities outside of academics, which enhances her social life and personal growth, but not to a degree that significantly competes with her main priorities.
+
+Mood
+
+1.Emotionally Responsive: A often feels a mix of ambition and pressure. While she is generally positive and enthusiastic about her interests and academic goals, she experiences bouts of stress and fatigue due to poor time management. This may lead to occasional frustration or self-doubt.
+2.Eager but Cautious: A is motivated to improve herself but may sometimes feel hesitant about fully committing to new routines or tools due to fear of failing to maintain them.
+3.Self-reflective and Open to Change: She is aware of her time management issues and is open to adopting better habits if they can help her reduce stress, feel more accomplished, and still enjoy her hobbies.
+
+Use Case
+
+1.Personal Well-being Tool: A would benefit from a well-being tool that integrates mindfulness, stress-relief activities, and relaxation techniques to help her manage academic pressures.
+2.Time Management Tool: A time management tool that is simple yet effective could help A stay organized and on track with both her academic and personal activities. Ideally, it would allow her to easily schedule and adjust her routines.
+
+Influences
+
+1.Peers and Academic Environment: Being at a competitive institution like IIIT-Hyderabad, A is likely influenced by her peers' achievements, possibly feeling driven or pressured to match their productivity and success.
+2.Social Media and Role Models: A may follow dancers, artists, or successful students on social media who inspire her to pursue her hobbies alongside academics. However, this could also set high expectations, impacting her perception of her own success.
+3.Personal Growth Mindset: A is likely influenced by a desire for self-improvement, evident in her openness to change and finding new tools to manage her time and well-being.

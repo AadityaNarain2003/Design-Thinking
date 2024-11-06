@@ -1,0 +1,8 @@
+User:
+A 1st or 3rd-year student who is well-intentioned and plans ahead but often struggles to execute those plans due to procrastination, leading to high stress and challenges with personal well-being and academics.
+
+Needs:
+To perform well academically while overcoming procrastination, developing consistent time management skills, and reducing stress. This user needs a tool that breaks down tasks into manageable steps and provides motivational support to encourage steady progress rather than last-minute work.
+
+Insights:
+While motivated to succeed and generally aware of what needs to be done, this student struggles with follow-through, leading to intense stress and feelings of guilt as deadlines approach. Their cycle of procrastination often results in compromised academic performance and well-being, despite a genuine desire to improve. With structured, incremental guidance and support, this student has strong potential to develop healthier work habits and achieve better balance.

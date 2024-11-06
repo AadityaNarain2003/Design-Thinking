@@ -1,0 +1,32 @@
+Overview:
+D is a 3rd-year dual degree student at IIIT-Hyderabad, actively involved in the Cognitive Science Lab and deeply interested in psychology. Academically successful, D is also a key member of the quizzing club, TVRQC. Despite his academic achievements, he often experiences anxiety and struggles to balance work with personal well-being.
+
+Job-to-be-done:
+D needs to manage academic stress while maintaining a healthy social life, ensuring that his anxiety does not impact his overall well-being.
+
+Pains:
+
+    1.Neglect of Personal Well-being: D prioritizes academics and responsibilities over personal self-care, often sacrificing relaxation or downtime.
+    2.High Anxiety: His academic pressures and commitments contribute to feelings of anxiety, which affects his ability to fully enjoy his social life.
+    3.Imbalance in Work-Life: While he is responsible and organized, D could benefit from a better work-life balance, as he tends to focus only on responsibilities related to academics and clubs.
+
+Gains:
+
+    1.Motivated by Academic Stress: D finds that academic pressure keeps him motivated and productive, channeling stress into energy for his tasks.
+    2.Effective Time Management: D uses scheduling tools frequently and is skilled at managing time, helping him stay on top of his academic and extracurricular commitments.
+
+Influences
+
+    1.Friends
+    2.Family 
+    3.Academic Advisor
+
+Mood
+
+    Organized and Responsible: D feels a strong sense of responsibility toward his academic and club roles, often putting them before self-care.
+    Anxious and Driven: His tendency to feel anxious pushes him to remain on top of tasks but also adds a level of stress that is challenging to manage.
+    Focused but Imbalanced: D is committed to his responsibilities but has difficulty prioritizing self-care alongside his work.
+
+Use Case
+
+    Work-Life Balance Prompt Tool: A tool that encourages D to manage his work-life balance better could be helpful. This tool might prompt him to take regular breaks, schedule downtime, and focus on personal well-being alongside his academic and extracurricular activities.

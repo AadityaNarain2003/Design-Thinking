@@ -1,0 +1,81 @@
+User Journey Map: Student Completing an Assignment in 48 Hours
+
+Scenario: The student has 48 hours to complete an assignment worth 15% of their grade, with an estimated 10-12 hours needed for completion. They have a full schedule of classes and labs from 8:30 am to 5:00 pm on both days, and must balance meals, sleep, and academic obligations.
+1. November 4th - 11:00 pm: Interview Begins
+
+    Actions: Interview about the task requirements; plans to start the assignment the next morning.
+    Thoughts: "I have very little time to complete this assignment, but I still need a good night’s rest."
+    Emotions: Anxiety about the upcoming workload.
+    Pain Points: Short timeline, academic pressure, and uncertainty about managing the workload.
+    Opportunities: Start planning in advance, mentally prepare for the next 48 hours, assess priorities.
+
+2. November 5th - Morning
+
+    6:00 am - Wakes Up Early:
+        Actions: Begins working on the assignment.
+        Thoughts: "Starting now will give me a head start before classes."
+        Emotions: Determination but overwhelmed by the remaining workload.
+        Pain Points: Lack of sleep due to early wake-up, balancing assignment work with breakfast and morning prep.
+        Opportunities: Early work allows for substantial progress before the day’s obligations begin.
+
+    8:00 am - Skips a Class to Work on Assignment:
+        Actions: Sacrifices attendance in one class to continue assignment.
+        Thoughts: "I need this extra time to make a dent in the assignment."
+        Emotions: Stress about missing content from class.
+        Pain Points: Risk of falling behind in class content, time pressure.
+        Opportunities: Use class recordings (if available) or rely on peers for missed information.
+
+3. November 5th - Midday to Evening
+
+    1:00 pm - Lunch Break:
+        Actions: Eats lunch to regain energy.
+        Thoughts: "I need to keep my energy up, so I’ll take this short break."
+        Emotions: Motivated but aware of the ticking clock.
+        Pain Points: Limited time for relaxation; looming evening of intense work.
+        Opportunities: Brief break to recharge before another work session.
+
+    7:00 pm - Dinner Break:
+        Actions: Takes a quick dinner to fuel an all-nighter.
+        Thoughts: "I’ll need all the energy I can get tonight."
+        Emotions: Fatigued yet determined to push through.
+        Pain Points: Pressure to complete the assignment, mental and physical exhaustion building.
+        Opportunities: Maintain hydration and energy levels for optimal focus.
+
+    11:00 pm - Pulls an All-Nighter:
+        Actions: Continues working steadily through the night.
+        Thoughts: "This is exhausting, but I have no choice if I want to finish on time."
+        Emotions: Anxiety about the deadline, stress about errors or incomplete work.
+        Pain Points: Lack of sleep, declining cognitive performance, inability to focus optimally.
+        Opportunities: Frequent mini-breaks and stretching to counter fatigue.
+
+4. November 6th - Morning
+
+    8:00 am - Skips Breakfast to Save Time:
+        Actions: Foregoes breakfast to maximize work time.
+        Thoughts: "I can’t afford to take too much time away from the assignment."
+        Emotions: Determination mixed with hunger and tiredness.
+        Pain Points: Skipping meals adds to physical strain, affecting concentration.
+        Opportunities: Quick snacks or caffeine to maintain energy and alertness.
+
+    9:00 am - Misses Classes to Work on Assignment:
+        Actions: Opts to skip classes in favor of completing the assignment.
+        Thoughts: "Missing a day’s classes is better than missing this deadline."
+        Emotions: Relief in making progress, but stress about missed academic content.
+        Pain Points: Guilt or concern about catching up on missed classwork.
+        Opportunities: Schedule a catch-up plan to recover missed lectures.
+
+5. November 6th - Final Push and Submission
+
+    2:00 pm - Skips Lunch, Pushes to Finish the Assignment:
+        Actions: Foregoes lunch to complete final touches and submission.
+        Thoughts: "I’m so close; I can finish this if I just keep pushing."
+        Emotions: Exhaustion, relief at nearing completion.
+        Pain Points: Hunger, fatigue, difficulty focusing on minor details due to exhaustion.
+        Opportunities: Quick snack break or caffeine boost to power through final stretch.
+
+    4:00 pm - Completes and Submits Assignment:
+        Actions: Finalizes and submits the assignment.
+        Thoughts: "It’s finally over. I’m relieved, but I need to rest."
+        Emotions: Relief, satisfaction at completing the work, physical and mental fatigue.
+        Pain Points: Physical and mental exhaustion, possible drop in quality due to rushed work.
+        Opportunities: Rest and recover after a grueling 48 hours; plan future assignments to avoid similar situations

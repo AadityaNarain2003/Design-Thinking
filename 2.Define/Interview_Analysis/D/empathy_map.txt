@@ -1,0 +1,25 @@
+SAYS
+
+    "Stress is a driving factor to work."
+    "I do better when there’s pressure."
+    "I just need to manage my schedule well."
+
+THINKS
+
+    "I tend to procrastinate until work binds me."
+    "If I don’t feel stressed, I’m less motivated."
+    "I need to get everything done on time to avoid more stress."
+
+DOES
+
+    Plans his schedule meticulously using various tools.
+    Procrastinates on tasks until deadlines approach, even though he manages to complete them.
+    Focuses intensely on academic and club responsibilities, often at the expense of personal downtime.
+
+FEELS
+
+    Anxious About Work: Despite his planning, he often feels anxiety around his responsibilities.
+    Driven by Pressure: Stress helps him stay productive, but it also keeps him on edge.
+    Conflicted: Feels responsible for work but struggles to balance it with relaxation.
+
+

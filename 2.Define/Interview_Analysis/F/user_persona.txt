@@ -1,0 +1,28 @@
+Overview:
+F is a 3rd-year single degree student at IIIT-Hyderabad, working in SERC, coordinating the NSS, and actively involved with the SLC tech team. He is highly interested in coding but less enthusiastic about pure math and science subjects. He briefly went to the gym three months ago but has since struggled with maintaining physical activity.
+
+Job-to-be-done:
+F aims to strengthen his coding skills to secure a good job post-graduation.
+
+Pains:
+
+    Inconsistent with Plans: F often struggles with following through on plans and goals he sets, leading to incomplete tasks.
+    Neglects Physical Well-being: Although he did try going to the gym, he finds it difficult to stay consistent with exercise and other physical health routines.
+
+Gains:
+
+    Organized with Task Management: F utilizes a synchronized time management tool, which helps him stay organized with his responsibilities across academics, NSS, and the SLC tech team.
+
+Influences
+
+    Friends: Likely encourages him in his academic and tech pursuits and might also influence his involvement in extracurriculars and social life.
+    Coding Community: As he is passionate about coding, the coding community, including mentors or team members, might inspire his learning and career goals.
+
+Mood
+
+    Goal-Oriented: Focuses on task planning and organization to handle his commitments effectively.
+    Structured but Needs Reinforcement: While he organizes tasks well, he would benefit from stronger follow-through, especially for personal well-being.
+
+Use Case
+
+    Plan Enforcement & Well-Being Manager: F would benefit from a tool that reinforces his plans with reminders, progress tracking, and accountability features. This tool could also encourage him to prioritize his physical health by integrating fitness or wellness prompts, helping him to maintain a balance between his coding goals and well-being.

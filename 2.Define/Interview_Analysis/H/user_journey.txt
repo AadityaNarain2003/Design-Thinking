@@ -1,0 +1,60 @@
+User Journey Map:  Completing an Assignment in 48 Hours
+
+Scenario: This student has a 48-hour deadline to complete an assignment worth 15% of their grade, requiring an estimated 10-12 hours. They have a full schedule of classes from 8:30 am to 5:00 pm each day, with structured breaks for meals.
+1. November 4th - 11:00 pm: Interview Ends
+
+    Actions: Decides to go to sleep with a plan to work during any available moments the next day.
+    Thoughts: "I need rest if I’m going to focus on the assignment tomorrow."
+    Emotions: Calm at the moment, slightly anxious about time constraints.
+    Pain Points: Time limitations; feeling unprepared to start but hopeful to make up time.
+    Opportunities: Rest tonight to stay sharp for strategic planning and class multitasking.
+
+2. November 5th - Morning
+
+    7:30 am - Wakes Up, Prepares for the Day:
+        Actions: Gets ready, eats breakfast, and heads to class with a mental plan to multitask.
+        Thoughts: "I’ll try to tackle some of the assignment during class if possible."
+        Emotions: Determined but aware of the upcoming time pressure.
+        Pain Points: Distraction from multitasking; potential risk of missed class information.
+        Opportunities: Utilize less engaging moments in class for assignment work; stay alert.
+
+    8:30 am - Classes Begin:
+        Actions: Attends classes and attempts to work on the assignment when there’s a chance.
+        Thoughts: "I have to make progress while I’m here, but I hope I don’t miss anything important."
+        Emotions: Stress about dividing attention, but also optimism about getting some work done.
+        Pain Points: Splitting focus between class and assignment; missing important lecture points.
+        Opportunities: Prioritize specific assignment tasks during class; use class recordings to review missed content.
+
+3. November 5th - Evening
+
+    7:00 pm - Quick Dinner Break Before All-Nighter:
+        Actions: Eats a quick dinner, readying for an intense work session.
+        Thoughts: "I need to maximize tonight; I’ll push for at least 7 hours of solid work."
+        Emotions: Determined but exhausted in anticipation of the long night.
+        Pain Points: Physical strain from lack of sleep, risk of burnout from the demanding pace.
+        Opportunities: Set up a structured plan for the night, take breaks every hour to stay alert.
+
+    11:00 pm - Pulls an All-Nighter (7 Hours of Work):
+        Actions: Commits to the assignment, working steadily through the night.
+        Thoughts: "I need to keep going if I want to finish in time; I’ll push through."
+        Emotions: Exhaustion, determination to stay on track, stress about retaining accuracy.
+        Pain Points: Fatigue affecting concentration; potential errors due to sleep deprivation.
+        Opportunities: Frequent short breaks to stretch and refocus, hydration to sustain energy.
+
+4. November 6th - Morning
+
+    8:30 am - Attends Classes, but Struggles to Stay Awake:
+        Actions: Goes to class but dozes off occasionally due to sleep deprivation.
+        Thoughts: "I’m too tired to focus on class right now; I just need to stay awake."
+        Emotions: Frustration from exhaustion, stress over missing class content.
+        Pain Points: Unable to focus due to fatigue, risk of falling behind on new content.
+        Opportunities: Brief rest breaks between classes, record or take minimal notes for later review.
+
+5. November 6th - Evening
+
+    4:00 pm - Wraps Up and Submits the Assignment:
+        Actions: Completes final touches and submits, ready to finally rest.
+        Thoughts: "It’s done; now I need to recover."
+        Emotions: Relief at finishing, satisfaction with managing the tight schedule, exhaustion from sleep loss.
+        Pain Points: Extreme physical and mental fatigue, concern over possible errors.
+        Opportunities: Plan for rest after submission, prioritize recovery to avoid burnout.

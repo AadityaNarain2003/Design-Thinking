@@ -1,0 +1,29 @@
+Overview:
+H is a 3rd-year dual degree student at IIIT-Hyderabad in the CLD program. Focused and sociable, he actively participates in extracurricular activities, holds leadership roles in clubs, and is a prominent member of E-Cell. Despite his dedication, he often sacrifices personal well-being, especially sleep and nutrition, to keep up with his demanding schedule.
+
+Job-to-be-done:
+H aims to secure a strong internship and excel academically while managing his extracurricular commitments.
+
+Pains:
+
+    Neglects Personal Well-being: H sacrifices sleep and nutrition frequently, impacting his health and energy.
+    Incomplete Task Follow-through: He often finishes only part of what he plans, finding it difficult to complete everything when overwhelmed.
+    Tendency to Skip Tasks: If his workload becomes too heavy, he tends to avoid certain tasks.
+
+Gains:
+
+    Effective Prioritization: H uses scheduling tools and is skilled at prioritizing tasks, helping him manage his busy schedule.
+    Anime as Stress Relief: Watching anime provides him with a mental break and helps reduce stress.
+
+Mood
+
+    Energetic and Social: Engages actively in various activities and maintains a vibrant social life.
+    Organized but Overwhelmed: While he uses scheduling tools, the heavy workload sometimes leaves him feeling overstretched.
+
+Influences
+
+    E-Cell,Friends
+
+Use Case
+
+    Well-Being Management App: H would benefit from a well-being management app that encourages him to balance work with health needs, like sleep and nutrition. The app could include reminders for self-care, sleep tracking, and gentle prompts to take breaks. Such a tool might help him maintain his productivity while better managing his physical and mental health.

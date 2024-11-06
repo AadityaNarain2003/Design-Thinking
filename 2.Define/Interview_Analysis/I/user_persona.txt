@@ -1,0 +1,26 @@
+Overview:
+I is a 3rd-year dual degree student at IIIT-Hyderabad, pursuing a degree in the CLD program. She is actively involved in the university community, managing multiple clubs and participating heavily in extracurricular activities. She has strong organizational habits for personal well-being, which help her stay balanced.
+
+Job-to-be-done:
+I aims to secure a valuable internship and maintain strong academic performance.
+
+Pains:
+
+    Difficulty Following Through on Tasks: Despite setting plans, I often struggles with completing her tasks, which can impact her productivity and goal achievement.
+
+Gains:
+
+    Well-Managed Personal Well-being: She has a healthy routine that she maintains, which helps her manage stress and stay resilient.
+    Low Academic Stress: I is generally unaffected by academic pressure, which allows her to stay calm even during busy periods.
+
+Mood
+
+    Organized with Visual Cues: I relies on sticky notes for reminders and organization, helping her keep track of tasks.
+    Calm and Resilient: She handles responsibilities well and maintains a composed outlook even with a busy schedule.
+
+Influences
+
+    Peers and Clubs
+Use Case
+
+    Motivation and Task Follow-Through Tool: I would benefit from a tool that provides gentle motivation to complete planned tasks. Features like progress tracking, goal reminders, or encouraging prompts could help her stay accountable to her commitments and improve her task follow-through.

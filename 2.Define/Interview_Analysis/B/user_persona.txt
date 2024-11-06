@@ -1,0 +1,32 @@
+Overview:
+B is a first-year undergraduate (UG1) dual degree student at IIIT-Hyderabad, enrolled in the Computer Science and Humanities (CHD) program. New to college life, B eagerly participates in extracurricular activities, showcasing a preference for a socially active and engaged college experience. He’s accustomed to academic pressure and believes he can handle stress well, claiming that it rarely affects him negatively.
+
+Job-to-be-done:
+B’s primary goal is to perform well academically across his first-semester UG1 courses. His focus is on maintaining solid grades and getting accustomed to the academic expectations in his dual degree program, balancing academics with his enthusiasm for extracurriculars.
+
+Pains:
+
+1.Poor Time Management: B struggles with organizing his day, often neglecting important personal habits like maintaining a sleep schedule.
+2.Sleep Deprivation: Disregarding sleep and self-care in favor of academic or social activities impacts his long-term well-being, which he may not yet realize.
+3.Need for External Motivation: B relies on external consequences or deadlines to drive his productivity, which can lead to last-minute stress.
+
+Gains:
+
+1.Low Stress: B claims that he doesn’t feel stressed, or if he does, it’s more motivational than debilitating. He maintains a confident outlook regarding his academic workload.
+2.Adaptability to Pressure: B’s previous exposure to academic pressure allows him to remain calm, even in high-stakes situations, giving him a perceived advantage over peers who may struggle more with stress.
+
+Mood:
+
+1.Confident and Relaxed: B feels that he can handle academic pressure without feeling overwhelmed.
+2.Optimistic and Adventurous: He’s enthusiastic about engaging in new experiences, particularly through extracurricular activities, which energize him and make college enjoyable.
+3.Unconcerned and Playful: B has a laid-back attitude toward academic deadlines and personal habits like sleep, sometimes to his detriment. He’s unconcerned about stress or consequences unless they directly affect him.
+
+Use Case
+
+1.Personal Planner: A structured yet flexible planner could be a valuable tool for B, enabling him to organize his tasks, set priorities, and create self-imposed deadlines before external consequences arise. The planner should encourage him to develop consistency without sacrificing his easygoing approach to stress management.
+
+Influences:
+
+Friends, family and books.
+
+

@@ -1,0 +1,8 @@
+User:
+A 2nd or 3rd-year student who is academically driven, highly responsible, and actively involved in extracurricular activities, yet consistently neglects their personal well-being.
+
+Needs:
+To achieve academic success while also managing extracurricular commitments effectively, without compromising personal health and well-being. This user needs a system that helps integrate wellness practices (like sleep, food, and exercise) into their rigorous academic routine, reminding them to balance self-care with productivity.
+
+Insights:
+While motivated to succeed, this student often sacrifices sleep, meals, and exercise to meet academic deadlines and uphold responsibilities in extracurriculars. Their intense focus on academic and career goals leads them to overlook the impacts of stress and exhaustion on their health. Despite being aware of the need for a balanced lifestyle, they struggle to implement sustainable wellness habits.

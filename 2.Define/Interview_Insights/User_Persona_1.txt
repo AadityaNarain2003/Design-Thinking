@@ -1,0 +1,41 @@
+Persona 1: The Academically Strong, Well-Being Neglecter
+Description:
+
+This persona is highly focused on academics and extracurricular activities. They are driven and responsible but tend to disregard their personal well-being. This often leads to them sacrificing sleep, food, and exercise in order to maintain their academic performance and meet deadlines.
+
+    Example Data: A (2nd-year student), H (3rd-year student), and D (3rd-year student).
+
+Job-To-Be-Done:
+
+    Achieve academic success and secure a good internship or job.
+    Manage extracurricular responsibilities effectively.
+    Maintain a balanced life but struggle to prioritize personal health.
+
+Pains:
+
+    Neglects Personal Well-being: Frequently sacrifices sleep and health for academic work.
+    Overwhelmed by Stress: Feels constantly under pressure to meet deadlines but struggles with health issues as a result.
+    Work-Life Imbalance: Struggles to balance academic, social, and personal health goals.
+
+Gains:
+
+    Strong academic performance due to high focus on work.
+    Involvement in extracurriculars provides opportunities for growth, despite being overwhelmed.
+    Uses tools for task management, but struggles to integrate health management alongside work.
+
+Influencers:
+
+    Family: Encourages academic success and productivity.
+    Friends and Social Circles: Provide support but also contribute to workload stress.
+    Advisors: Influence academic decisions and extracurricular participation.
+
+Mood:
+
+    Stressed and Fatigued: Feels worn out due to the heavy workload.
+    Overworked but Motivated: Motivated by academic goals but often exhausted by the demands.
+    Occasionally Anxious: Anxiety spikes as deadlines approach, affecting health and productivity.
+
+Use Case:
+
+    Needs a well-being management tool that prompts them to focus on self-care (sleep, food, exercise) alongside academic tasks.
+    Could benefit from an app that reminds them to take breaks and manage stress levels, integrating health and productivity.
