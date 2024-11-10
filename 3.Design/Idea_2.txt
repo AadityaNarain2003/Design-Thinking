@@ -1,0 +1,16 @@
+IIIT Well-Being Manager:
+
+In our user study we noticed that the user disregards his/her personal well-being. A total neglect in some cases when exams peek, which becomes habitual.
+Here personal well being is defined as the quantity of sleep, quality of food, physical exercise, socially spending time with friends, maintaining hygiene and cleaning room/workplace.
+
+Proposed Idea:
+1. A notification/widget based mobile app that acts a constant reminder and tries to measure user personal well-being. 
+2. It can monitor eating habits, time spend on social media, frequency of using social media and entertainment apps, and serve as a well being reminder.
+3. It can be integrated with moodle and serve as a one spot for all academic deadlines.
+4. If for example let's say the user is contantly opening Zomato for 4 nights in a row, it reminds the user to eat from the mess. 
+
+User Benefits:
+User has a one stop, yes/no based notification system for personal well being. It should be light weight at it's heart and therefore serve as a daily reminder to maintain the less priortised personal well-being.
+
+AD-LIB:
+Our IIIT Well-Being Manager helps university students who want to maintain their personal well-being amidst academic pressures by reducing neglect of essential habits and enabling a healthier, more balanced lifestyle. Unlike basic to-do lists or scheduling apps, this lightweight app integrates personalized reminders for well-being activities and academic deadlines, providing a one-stop dashboard to help students manage self-care and coursework more effectively.

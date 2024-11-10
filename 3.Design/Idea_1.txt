@@ -1,0 +1,18 @@
+IIIT Workload predictor app:
+
+1. We have the data of a course, when new assignments usually come and when the workload can be high.
+
+2. We have the data of a club/sports/extracurricular workload, and can predict when new activites that interest you can pop in.
+
+On the basis of the previous data and on the basis of the current courses enrolled in or activities we want to take part in, we can build a workload predictor app.
+
+User Benefit:
+
+	1. Case:
+		Let's say today is 10th Nov. I have 2 Assignments pending in a week. I project due in 2 weeks.
+		Now for course A if I could predict that another assignment might come on 14th with good workload then I might want to complete the pending assignments right now.
+		
+So the user can priortize the tasks based on predicted workload and deadline. 
+
+AD-LIB statement:
+Our IIIT Workload Predictor App helps university students who want to balance academic and extracurricular commitments by reducing last-minute stress and enabling proactive planning for a balanced workload. Unlike traditional scheduling apps, the Workload Predictor uses historical course and activity data to provide personalized workload forecasts, allowing students to prioritize effectively and improve both academic performance and well-being

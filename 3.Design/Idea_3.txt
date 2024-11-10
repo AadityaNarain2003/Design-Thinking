@@ -1,0 +1,12 @@
+A combined Integrated To-Do List:
+
+Manually making To-Do Lists, sticky notes, visualization of tasks seems like a challenge as people tend to not follow what they set out to achieve.
+Therefore an integrated To-Do List that works with Moodle/IMS/Clubs/Sports website and serves as one spot for all your tasks.
+You can have your own personal calender and reminders integrated into it.
+
+Basically a more IIIT-oriented version of google calender or outlook calender.
+
+Another approach: An extension that directly links to outlook and helps visualize better.
+
+AD-LIB:
+Our IIIT Integrated To-Do List helps university students who want to stay organized and prioritize tasks across academics, extracurriculars, and personal goals by reducing the chaos of multiple calendars and notes and enabling a centralized, IIIT-specific task management experience. Unlike general tools like Google Calendar or Outlook Calendar, this integrated list syncs directly with Moodle, IMS, and club activity schedules, offering students a single, IIIT-focused hub for all their tasks and reminders.
