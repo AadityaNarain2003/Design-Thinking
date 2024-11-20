@@ -15,4 +15,7 @@ User Benefit:
 So the user can priortize the tasks based on predicted workload and deadline. 
 
 AD-LIB statement:
-Our IIIT Workload Predictor App helps university students who want to balance academic and extracurricular commitments by reducing last-minute stress and enabling proactive planning for a balanced workload. Unlike traditional scheduling apps, the Workload Predictor uses historical course and activity data to provide personalized workload forecasts, allowing students to prioritize effectively and improve both academic performance and well-being
+Our IIIT Workload Predictor App helps university students who want to balance academic and extracurricular commitments by reducing last-minute stress and enabling proactive planning for a balanced workload. Unlike traditional scheduling apps, the Workload Predictor uses historical course and activity data to provide personalized workload forecasts, allowing students to prioritize effectively and improve both academic performance and well-being.
+
+User 3 feedback: This seems efficient
+ 

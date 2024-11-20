@@ -14,3 +14,7 @@ User has a one stop, yes/no based notification system for personal well being. I
 
 AD-LIB:
 Our IIIT Well-Being Manager helps university students who want to maintain their personal well-being amidst academic pressures by reducing neglect of essential habits and enabling a healthier, more balanced lifestyle. Unlike basic to-do lists or scheduling apps, this lightweight app integrates personalized reminders for well-being activities and academic deadlines, providing a one-stop dashboard to help students manage self-care and coursework more effectively.
+
+User 1 feedback: Would prefer to use something on this rather than other solutions
+User 2 feedback: Likes this but would want something that not on phone also
+User 4 feedback: Idea seems better than other, but similar to apps on market

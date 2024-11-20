@@ -6,5 +6,7 @@ Integration with objects such as smart rings/smart watches where they track hear
 other such metrics which when analyzed can give us stress level and a lot of other information.
 And based on that we can recommend activities to the students.
 
+Problem: Lack of personal wearables
+
 AD-LIB:
 Our IoT and Wearable-Based Well-Being Tracker helps university students who want to manage stress and maintain a balanced lifestyle by reducing the difficulty of recognizing stress triggers in real-time and enabling personalized, data-driven recommendations for self-care. Unlike standard well-being apps or trackers, this solution integrates with smart rings, watches, and other IoT devices to monitor heart rate and other health metrics, providing students with actionable insights and activities to reduce stress based on real-time data.

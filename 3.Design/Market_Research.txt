@@ -1,0 +1,97 @@
+1. Habitica
+
+ Gains (Positives)
+
+    Gamification as Motivation
+    Social Accountability
+    Flexible Task Management
+
+ Pains (Negatives)
+
+    Overwhelming for New Users
+    Limited Integration with Other Tools
+    Dependence on Gamification
+
+2. How we feel
+
+ Gains (Positives)
+
+    Emotional Check-Ins
+    Simple and Intuitive Interface
+    Encourages Self-Awareness
+
+ Pains (Negatives)
+
+    Limited Depth in Insights
+    Lack of Personalization
+    No Integration with External Tools
+
+3. Habit Tracker
+
+ Gains (Positives)
+
+    Tracks Progress Over Time
+    Builds Consistency and Discipline
+    Simple and Focused Design
+
+ Pains (Negatives)
+
+    Lack of Motivation Features
+    Limited Customization Options
+    No Social or Community Features
+
+4. Digital Well-Being
+
+ Gains (Positives)
+
+    Monitors Screen Time Effectively
+    Encourages Healthy Usage Habits
+    Offers Focus and Break Tools
+
+ Pains (Negatives)
+
+    Limited Personalization of Goals
+    Lack of Gamification or Motivation Features
+    Insights Can Be Overwhelming for Some Users
+
+5. Smiling Mind
+
+ Gains (Positives)
+
+    Mindfulness and Mental Health Focus
+    Age-Appropriate Programs for All Users
+    Evidence-Based Content
+
+ Pains (Negatives)
+
+    Limited Customization Options
+    Can Be Repetitive for Long-Term Users
+    Lack of Advanced Analytics or Progress Tracking
+
+6. BetterSleep
+
+ Gains (Positives)
+
+    Customizable Sleep Sounds and Meditations
+    Tracks Sleep Patterns and Provides Insights
+    User-Friendly Interface
+
+ Pains (Negatives)
+
+    Limited Free Features
+    Lack of Advanced Sleep Data Analysis
+    Can Be Overwhelming with Too Many Options
+
+7. Fitness-a lot
+
+ Gains (Positives)
+
+    Wide Range of Workouts and Fitness Plans
+    Customizable Exercise Routines
+    Tracks Progress and Provides Motivational Feedback
+
+ Pains (Negatives)
+
+    Requires Regular Updates for New Content
+    Limited Social Features or Community Support
+    Can Be Intimidating for Beginners
