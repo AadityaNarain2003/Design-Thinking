@@ -1,0 +1,30 @@
+This app is basically a habit
+tracker which takes in user's
+current well-being status on 5
+parameters and asks the user
+about their goal on these 5
+parameters.
+• The app has an integrated to-
+do list to help user manage all
+their deadlines better.
+• The app will act a companion
+which gives recommendation
+on what to do, based on daily
+interaction with the user.
+• This app will be gamified in
+nature to be fun.
+
+t is a habit tracking app
+• Push Notification plus widget-
+based system
+• White Hat Gamification (
+Streaks, Badges, Progress Bar )
+• No data tracking( privacy ) +
+can work offline
+• Based on wellness of University
+Students
+• Tracking of Phone/App Usage
+• Integrated To-Do List with your
+University's Moodle
+• Weekly & Monthly Calendar
+• Motivational Insights
